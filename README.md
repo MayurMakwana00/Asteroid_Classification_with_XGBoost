@@ -93,7 +93,7 @@ Nasa-Asteroid-Classification/
 How to Run the Project:
 
 1. Clone the repository
-2. git clone https://github.com/yourusername/Nasa-Asteroid-Classification.git
+2. git clone https://github.com/MayurMakwana00/Nasa-Asteroid-Classification.git
 
 2.Install required libraries:
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost
